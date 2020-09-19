@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Sailing Off Rye",
+    "thumbnail": "2020/09/art-10.jpg",
+    "price": "$175"
+  },
+  {
+    "id": 2,
+    "title": "Lone Dinghy",
+    "thumbnail": "2020/09/art-11.jpg",
+    "price": "$125"
+  },
+  {
+    "id": 3,
+    "title": "Portsmouth Tugboats",
+    "thumbnail": "2020/09/art-13.jpg",
+    "price": "$125"
+  },
+  {
+    "id": 4,
+    "title": "Fuller Gardens Fountain",
+    "thumbnail": "2020/09/art-14.jpg",
+    "price": "$125"
+  }
+]
